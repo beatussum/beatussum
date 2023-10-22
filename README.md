@@ -1,5 +1,13 @@
 # Mattéo Rossillol‑‑Laruelle (a.k.a. _Beatussum_)
 
+## :house_with_garden: About me
+
+I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) (I survived!).
+
+During my free time, I love developing softwares as you can see on [this page](https://github.com/beatussum?tab=repositories).
+
+I am a GNU/Linux enthusiast and proud a [Gentoo](https://www.gentoo.org/) user.
+
 ## :mailbox_with_no_mail: Contact
 
 You can contact contact me at the following address beatussum@protonmail.com.
