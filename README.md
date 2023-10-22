@@ -6,7 +6,7 @@ I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a compute
 
 During my free time, I love developing softwares as you can see on [this page](https://github.com/beatussum?tab=repositories).
 
-I am a GNU/Linux enthusiast and proud a [Gentoo](https://www.gentoo.org/) user.
+I am a GNU/Linux enthusiast and a proud [Gentoo](https://www.gentoo.org/) user.
 
 ## :mailbox_with_no_mail: Contact
 
