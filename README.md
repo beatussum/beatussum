@@ -4,6 +4,8 @@
 
 I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) (coming from [a PT background](https://fr.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_physique_et_technologie), I'm a proud bolt-drawer! :nut_and_bolt:).
 
+I am currently looking for an internship in **software engineering**. Please see [my LinkedIn profile](https://www.linkedin.com/in/matteo-rossillol--laruelle/) if you are interested.
+
 During my free time, I love developing softwares as you can see on [this page](https://github.com/beatussum?tab=repositories).
 
 I am a GNU/Linux enthusiast and a proud [Gentoo](https://www.gentoo.org/) user.
