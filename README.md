@@ -69,9 +69,9 @@ To work, it depends on the following libraries:
 
 _Projet en français_
 
-Il s'agit d'une formation visant à faire découvrir à mes camarades de promotions **le C++**. Elle a débuté pendant **l'année scolaire 2023-2024** à **l'ENSIMAG**.
+Il s'agit du site associé à une formation visant à faire découvrir à mes camarades de promotions **le C++**. Elle a débuté pendant **l'année scolaire 2023-2024** à **l'ENSIMAG**.
 
-Sur ce site, vous trouverez plusieurs pages vous permettant d'accéder aux différentes resources de chaque cours. En d'autres termes, vous pourrez retrouver :
+Sur [ce site](https://beatussum.github.io/cppcourses/), vous trouverez plusieurs pages vous permettant d'accéder aux différentes resources de chaque cours. En d'autres termes, vous pourrez retrouver :
 - les sujets de T.P.,
 - les supports de cours,
 - et autres annotations.
