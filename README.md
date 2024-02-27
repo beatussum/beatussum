@@ -67,7 +67,7 @@ To work, it depends on the following libraries:
 - [OpenCV](https://opencv.org/) for the video processing;
 - [QCustomPlot](https://www.qcustomplot.com/) for displaying data in graphs.
 
-## [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="32" height="32"/> cpp-courses](https://github.com/beatussum/cppcourses/)
+### [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="32" height="32"/> cpp-courses](https://github.com/beatussum/cppcourses/)
 
 _Projet en français_
 
