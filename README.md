@@ -23,28 +23,28 @@ English | Decent       | Proficient      | Practicing daily, can write better th
 
 ### Programming languages
 
-Name   | Used for | Skill level | Comment                                                                                    | Reference projects
--------|----------|-------------|--------------------------------------------------------------------------------------------|------------------
-C++    | 8 years  | Advanced    | Objectively, [the best programming language](https://harmful.cat-v.org/software/c++/linus) | [Nearly all FOSS I develop](https://github.com/beatussum?tab=repositories)
-Bash   | 7 years  | Proficient  | Used for all my scripts                                                                    | [My Gentoo overlay](https://github.com/beatussum/beatussum-overlay), [an OpenRC service for restoring the last brightness level on reboot](https://github.com/beatussum/save-backlight)
-Python | 3 years  | Proficient  | Mainly used for scientific purposes                                                        | [A computing homework](https://github.com/beatussum/sudoku), [my S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-C      | x        | Beginner    | To help some friends with their homeworks                                                  | x
-C#     | x        | Beginner    | For scripting in [Space Engineers](https://fr.wikipedia.org/wiki/Space_Engineers)          | x
+Name   | Used for | Comment                                                                                    | Reference projects
+-------|----------|--------------------------------------------------------------------------------------------|------------------
+C++    | 8 years  | Objectively, [the best programming language](https://harmful.cat-v.org/software/c++/linus) | [Nearly all FOSS I develop](https://github.com/beatussum?tab=repositories)
+Bash   | 7 years  | Used for all my scripts                                                                    | [My Gentoo overlay](https://github.com/beatussum/beatussum-overlay), [an OpenRC service for restoring the last brightness level on reboot](https://github.com/beatussum/save-backlight)
+Python | 3 years  | Mainly used for scientific purposes                                                        | [A computing homework](https://github.com/beatussum/sudoku), [my S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
+C      |          | To help some friends with their homeworks                                                  |
+C#     |          | For scripting in [Space Engineers](https://fr.wikipedia.org/wiki/Space_Engineers)          |
 
 ### Frameworks, libraries and others
 
-Name       | Used for | Skill level | Comment                                                                                                                   | Reference projects
------------|----------|-------------|---------------------------------------------------------------------------------------------------------------------------|------------------
-Qt         | 8 years  | Proficient  | The library I use for all my WYSIWYG projects                                                                             | [PMSExp](https://github.com/beatussum/pmsexp)
-Git        | 7 years  | Proficient  | Used basically for all my personal projects                                                                               | [All my repositories you can find](https://github.com/beatussum?tab=repositories)
-LaTeX      | 3 years  | Proficient  | Used for all my scholar reports                                                                                           | x
-Matplotlib | 3 years  | Proficient  | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-Scipy      | 3 years  | Beginner    | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-Numpy      | 3 years  | Beginner    | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-PyQt       | x        | Beginner    | x                                                                                                                         | [A computing homework](https://github.com/beatussum/sudoku)
-OpenCV     | x        | Beginner    | x                                                                                                                         | [PMSExp](https://github.com/beatussum/pmsexp)
-SQLite     | x        | Beginner    | x                                                                                                                         | x
-SQL        | x        | Beginner    | x                                                                                                                         | x
+Name       | Used for | Comment                                                                                                                   | Reference projects
+-----------|----------|---------------------------------------------------------------------------------------------------------------------------|------------------
+Qt         | 8 years  | The library I use for all my WYSIWYG projects                                                                             | [PMSExp](https://github.com/beatussum/pmsexp)
+Git        | 7 years  | Used basically for all my personal projects                                                                               | [All my repositories you can find](https://github.com/beatussum?tab=repositories)
+LaTeX      | 3 years  | Used for all my scholar reports                                                                                           |
+Matplotlib | 3 years  | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
+Scipy      | 3 years  | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
+Numpy      | 3 years  | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
+PyQt       |          |                                                                                                                           | [A computing homework](https://github.com/beatussum/sudoku)
+OpenCV     |          |                                                                                                                           | [PMSExp](https://github.com/beatussum/pmsexp)
+SQLite     |          |                                                                                                                           |
+SQL        |          |                                                                                                                           |
 
 ## :hammer: My main personal projects
 
