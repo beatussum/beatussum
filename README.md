@@ -2,7 +2,7 @@
 
 ## :house_with_garden: About me
 
-I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE).
+I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) (coming from [a PT background](https://fr.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_physique_et_technologie), I'm a proud bolt-drawer! :nut_and_bolt:).
 
 During my free time, I love developing softwares as you can see on [this page](https://github.com/beatussum?tab=repositories).
 
