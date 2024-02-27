@@ -2,7 +2,7 @@
 
 ## :house_with_garden: About me
 
-I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) (I survived!).
+I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE).
 
 During my free time, I love developing softwares as you can see on [this page](https://github.com/beatussum?tab=repositories).
 
@@ -64,3 +64,14 @@ To work, it depends on the following libraries:
 - [Qt](https://www.qt.io/) for the user interface;
 - [OpenCV](https://opencv.org/) for the video processing;
 - [QCustomPlot](https://www.qcustomplot.com/) for displaying data in graphs.
+
+## [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="32" height="32"/> cpp-courses](https://github.com/beatussum/cppcourses/)
+
+_Projet en français_
+
+Il s'agit d'une formation visant à faire découvrir à mes camarades de promotions **le C++**. Elle a débuté pendant **l'année scolaire 2023-2024** à **l'ENSIMAG**.
+
+Sur ce site, vous trouverez plusieurs pages vous permettant d'accéder aux différentes resources de chaque cours. En d'autres termes, vous pourrez retrouver :
+- les sujets de T.P.,
+- les supports de cours,
+- et autres annotations.
