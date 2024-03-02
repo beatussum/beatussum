@@ -32,6 +32,7 @@ Bash   | 7 years  | Used for all my scripts                                     
 Python | 3 years  | Mainly used for scientific purposes                                                        | [A computing homework](https://github.com/beatussum/sudoku), [my S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
 C      |          | To help some friends with their homeworks                                                  |
 C#     |          | For scripting in [Space Engineers](https://fr.wikipedia.org/wiki/Space_Engineers)          |
+Rust   |          |                                                                                            | [An engineering school homework](https://github.com/beatussum/polygon/)
 
 ### Frameworks, libraries and others
 
