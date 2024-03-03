@@ -1,5 +1,9 @@
 # Mattéo Rossillol‑‑Laruelle (a.k.a. _Beatussum_)
 
+[![Mattéo Rossillol‑‑Laruelle's LinkedIn account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-rossillol--laruelle/) [![My Proton Mail address](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:beatussum@protonmail.com)
+
+[![Mattéo Rossillol‑‑Laruelle's GitHub Stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=gruvbox&username=beatussum)](https://github.com/beatussum/)
+
 ## :house_with_garden: About me
 
 I am a French studying at [ENSIMAG](https://ensimag.grenoble-inp.fr/), a computer engineering school, just after two years of [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) (coming from [a PT background](https://fr.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_physique_et_technologie), I'm a happy bolt-drawer! :nut_and_bolt:).
@@ -24,6 +28,8 @@ English | Decent       | Proficient      | Practicing daily, can write better th
 ## :computer: Computer-related skills
 
 ### Programming languages
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=beatussum)](https://github.com/beatussum#programming-languages)
 
 Name   | Used for | Comment                                                                                    | Reference projects
 -------|----------|--------------------------------------------------------------------------------------------|------------------
