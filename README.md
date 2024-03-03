@@ -27,9 +27,9 @@ English | Decent       | Proficient      | Practicing daily, can write better th
 
 ## :computer: Computer-related skills
 
-### Programming languages
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=beatussum)](https://github.com/beatussum#programming-languages)
+
+### Programming languages
 
 Name   | Used for | Comment                                                                                    | Reference projects
 -------|----------|--------------------------------------------------------------------------------------------|------------------
