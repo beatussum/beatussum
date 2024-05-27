@@ -20,10 +20,7 @@ You can contact contact me at the following address beatussum@protonmail.com.
 
 ## :sound: Languages
 
-Name    | Skill (oral) | Skill (written) | Comment
---------|--------------|-----------------|--------
-French  | Advanced     | Advanced        | Native language
-English | Decent       | Proficient      | Practicing daily, can write better than I speak
+I am a native French speaker, and I can read and talk in English.
 
 ## :computer: Computer-related skills
 
