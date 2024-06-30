@@ -26,32 +26,6 @@ I am a native French speaker, and I can read and talk in English.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=beatussum)](https://github.com/beatussum#programming-languages)
 
-### Programming languages
-
-Name   | Used since | Comment                                                                                    | Reference projects
--------|------------|--------------------------------------------------------------------------------------------|------------------
-C++    | 2015       | Objectively, [the best programming language](https://harmful.cat-v.org/software/c++/linus) | [Nearly all FOSS I develop](https://github.com/beatussum?tab=repositories)
-Bash   | 2016       | Used for all my scripts                                                                    | [My Gentoo overlay](https://github.com/beatussum/beatussum-overlay), [an OpenRC service for restoring the last brightness level on reboot](https://github.com/beatussum/save-backlight)
-Python | 2020       | Mainly used for scientific purposes                                                        | [A computing homework](https://github.com/beatussum/sudoku), [my S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-C      | 2023       | Learn at [ENSIMAG](https://ensimag.grenoble-inp.fr/)                                       |
-Rust   | 2023       | Learn at [ENSIMAG](https://ensimag.grenoble-inp.fr/)                                       | [An engineering school homework](https://github.com/beatussum/polygon/)
-C#     |            | For scripting in [Space Engineers](https://fr.wikipedia.org/wiki/Space_Engineers)          |
-
-### Frameworks, libraries and others
-
-Name       | Used since | Comment                                                                                                                   | Reference projects
------------|------------|---------------------------------------------------------------------------------------------------------------------------|------------------
-Qt         | 2015       | The library I use for all my WYSIWYG projects                                                                             | [PMSExp](https://github.com/beatussum/pmsexp)
-Git        | 2016       | Used basically for all my personal projects                                                                               | [All my repositories you can find](https://github.com/beatussum?tab=repositories)
-LaTeX      | 2020       | Used for all my scholar reports                                                                                           |
-Matplotlib | 2020       | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-Scipy      | 2020       | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-Numpy      | 2020       | Used during my [C.P.G.E.](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles#Scientific_CPGE) | [My S.P.C. homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_spc), [my computing homeworks in P.T.S.I.](https://github.com/beatussum/ptsi_it)
-PyQt       |            |                                                                                                                           | [A computing homework](https://github.com/beatussum/sudoku)
-OpenCV     |            |                                                                                                                           | [PMSExp](https://github.com/beatussum/pmsexp)
-SQLite     |            |                                                                                                                           |
-SQL        |            |                                                                                                                           |
-
 ## :hammer: My main personal projects
 
 ### [<img src="https://assets.gentoo.org/tyrian/v1/site-logo.svg" height="32"/> beatussum-overlay](https://github.com/beatussum/beatussum-overlay/)
